@@ -1,7 +1,7 @@
 # RGB LED fun using IFTTT and Particle.io
 
 Setup
-![](image.jpg)
+![](setup.jpg)
 
 Google commands
 ![](assistant/01.jpg)
