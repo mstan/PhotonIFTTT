@@ -4,9 +4,9 @@ Setup
 ![](setup.jpg)
 
 Google commands
-![](assistant/01.jpg)
-![](assistant/02.jpg)
-![](assistant/03.jpg)
+![](assistant/01.png)
+![](assistant/02.png)
+![](assistant/03.png)
 
 Results
 ![](lights/red.jpg)
